@@ -1,3 +1,6 @@
-# minianki
+## minianki
+Simple flashcard program utilizing no special fancy algorithm.
 
-A description of this package.
+## Screenshot
+
+[A screenshot](./screenshot.png)
